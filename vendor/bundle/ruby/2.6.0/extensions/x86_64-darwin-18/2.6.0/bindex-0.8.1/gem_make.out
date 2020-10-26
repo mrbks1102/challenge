@@ -1,0 +1,15 @@
+current directory: /Users/miraba/Desktop/challenge/challenge/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/miraba/.rbenv/versions/2.6.3/bin/ruby -I /Users/miraba/.rbenv/versions/2.6.3/lib/ruby/2.6.0 -r ./siteconf20201026-63141-e9lpag.rb extconf.rb
+creating Makefile
+
+current directory: /Users/miraba/Desktop/challenge/challenge/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/miraba/Desktop/challenge/challenge/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/miraba/Desktop/challenge/challenge/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20201026-63141-xwb03r/skiptrace/internal
